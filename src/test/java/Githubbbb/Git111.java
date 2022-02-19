@@ -11,6 +11,8 @@ public class Git111 {
 		System.out.println("This is user 1 second commit");
 		
 		System.out.println("This is user2 1st commit");
+		
+		System.out.println("This is user2 first commit");
 	}
 
 }
