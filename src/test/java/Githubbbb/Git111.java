@@ -7,6 +7,8 @@ public class Git111 {
 	public void gittttt(){
 		
 		System.out.println("This is user 1 first commit");
+		
+		System.out.println("This is user 1 second commit");
 	}
 
 }
