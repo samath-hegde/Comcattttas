@@ -18,7 +18,9 @@ public class Git111 {
 		
 		System.out.println("This is user 1 fourth commit");
 		
+
 		System.out.println("This is user one ninth commit-- git resolved");
+		System.out.println("This is user 2 fourth commit git conflict");
 	}
 
 }
